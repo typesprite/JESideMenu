@@ -1,5 +1,8 @@
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-# JESlideMenu – iOS Slide-out Menu in Swift
+![](https://img.shields.io/badge/x-no%20longer%20maintained-red) 
+
+⚠️ **Deprecated** ⚠️
+
+# JESlideMenu
 
 JESlideMenu is an easy to use slide-out menu written in Swift 3. The slide-out menu can be easily added in an existing project. The design is completely written in code with autolayout, including a hamburger/toggle button. Therefore there is no need to add a toggle button, but you can if you want to.
 
@@ -44,7 +47,7 @@ Screenshot from the example project. The menu and navigation bar was adjusted vi
 [Carthage](https://github.com/Carthage/Carthage) is simple and decentralized package manager. To integrate JESlideMenu in your project, insert the following line in your Cartfile:
 
 ```
-github "typesprite/JESlideMenu" ~> 1.1.0
+github "jaeilers/JESlideMenu" ~> 1.1.0
 ```
 And run `carthage update` one the console in your project folder to build the framework and drag the built `JESlideMenu.framework` into your Xcode project.
 
